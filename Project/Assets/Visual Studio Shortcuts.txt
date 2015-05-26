@@ -1,0 +1,21 @@
+CTRL + M + O will collapse all.
+CTRL + M + L will expand all
+
+CTRL + K + C comment a block
+CTRL + K + U uncomment the block
+
+CTRL + U lower case
+CTRL + SHIFT + U upper case
+
+ALT + SHIFT + ENTER fullscreen
+
+F12 definination (new tab)
+ALT + F12 definintion (same window)
+
+CTRL + TAB tab through windows
+
+CTRL + I search
+F3 next found
+
+CTRL + - cursor position backward
+CTRL + SHIFT + - cursor position forward
